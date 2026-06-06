@@ -27,7 +27,7 @@ This repository contains solutions to a wide range of programming challenges inv
 
 ## Topics Covered
 
-### 2d-arrays-and-matrices
+### 2D Arrays & Matrices** - multi-dimensional arrays, row/column operations
 - [Integer Digit Analyzer](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/2d-arrays-and-matrices/integer-digit-analyzer.cpp)
 - [Matrix Processor](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/2d-arrays-and-matrices/matrix-processor.cpp)
 - [Student Average Mark (2D Version)](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/2d-arrays-and-matrices/student-average-mark-v2.cpp)
