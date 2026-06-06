@@ -1,22 +1,3 @@
-# C++ Fundamentals
-
-A collection of C++ programs organised by core concept, built while
-developing a strong foundation in systems programming and computer science.
-
-## Topics Covered
-- **Arithmetic & Operators** - expressions, unit conversion, digit manipulation
-- **Conditionals & Branching** - if/else, switch, tiered logic
-- **Loops** - while, for, do-while, sentinels, nested loops
-- **Arrays** - 1D arrays, searching, random generation, statistics
-- **Functions** - modular design, pass-by-reference, return values
-- **Strings & Characters** - C-strings, character classification, text analysis
-- **File I/O** - reading/writing files, formatted reports
-- **2D Arrays & Matrices** - multi-dimensional arrays, row/column operations
-
-**Language:** C++
-**Compiler:** G++
-
-
 # C++ Programming Portfolio
 
 A collection of 63 C++ programs developed during my first year of Computer Science to strengthen problem-solving, algorithmic thinking, and software development skills.
@@ -25,14 +6,50 @@ This repository contains solutions to a wide range of programming challenges inv
 
 ---
 
+## Skills Demonstrated
+
+- C++
+- Structured Programming
+- Algorithm Design
+- Problem Solving
+- Data Processing
+- File Management
+- Input Validation
+- Debugging and Testing
+
+---
+
+## Learning Outcomes
+
+Through these projects I developed:
+
+- Strong programming fundamentals in C++
+- Systematic problem-solving skills
+- Experience designing algorithms from problem specifications
+- Confidence in debugging and testing software
+- Understanding of modular and maintainable code design
+
+---
+
+## Featured Projects
+
+- [Student Assessment Report Generator](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/file-io/student-assessment-report.cpp) — Reads student data from a file, computes weighted scores, validates records, and writes a formatted report using file I/O
+- [Smart Home Hub Controller](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/conditionals-and-branching/smart-home-hub.cpp) — Simulates IoT home automation logic across three operating modes using switch and nested conditionals
+- [EV Charging Cost Calculator](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/conditionals-and-branching/ev-charging-cost-calculator.cpp) — Computes EV charging costs based on charger type and session duration with a tiered discount system
+- [Matrix Processor](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/2d-arrays-and-matrices/matrix-processor.cpp) — Operates on a 2D matrix using four dedicated functions: random population, minimum finder, row averages, and formatted display
+- [Integer Digit Analyzer](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/2d-arrays-and-matrices/integer-digit-analyzer.cpp) — Computes digit count, digit sum, reversal, palindrome detection, and repeated-digit detection using pure arithmetic
+- [Ticket Booking System](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/loops/ticket-booking-system.cpp) — Manages a live ticket inventory with input validation, buyer tracking, and automatic sold-out detection
+
+---
+
 ## Topics Covered
 
-### 2D Arrays & Matrices** - multi-dimensional arrays, row/column operations
+### 2D Arrays & Matrices - multi-dimensional arrays, row/column operations
 - [Integer Digit Analyzer](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/2d-arrays-and-matrices/integer-digit-analyzer.cpp)
 - [Matrix Processor](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/2d-arrays-and-matrices/matrix-processor.cpp)
 - [Student Average Mark (2D Version)](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/2d-arrays-and-matrices/student-average-mark-v2.cpp)
 
-### arithmetic-and-operators
+### Arithmetic & Operators - expressions, unit conversion, digit manipulation
 - [Coin Currency Converter](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/arithmetic-and-operators/coin-currency-converter.cpp)
 - [Cylinder Volume Calculator](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/arithmetic-and-operators/cylinder-volume.cpp)
 - [Feet to Inches Converter](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/arithmetic-and-operators/feet-to-inches.cpp)
@@ -57,7 +74,7 @@ This repository contains solutions to a wide range of programming challenges inv
 - [Two-Digit Splitter](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/arithmetic-and-operators/two-digit-splitter.cpp)
 - [Two-Digit Sum](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/arithmetic-and-operators/two-digit-sum.cpp)
 
-### conditionals-and-branching
+### Conditionals & Branching - if/else, switch, tiered logic
 - [EV Charging Cost Calculator](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/conditionals-and-branching/ev-charging-cost-calculator.cpp)
 - [Library Late Fee Calculator](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/conditionals-and-branching/library-late-fee-calculator.cpp)
 - [Mark Bonus Calculator (Basic)](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/conditionals-and-branching/mark-bonus-basic.cpp)
@@ -75,7 +92,7 @@ This repository contains solutions to a wide range of programming challenges inv
 - [Water Bill Calculator (if-else)](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/conditionals-and-branching/water-bill-tiered-ifelseif.cpp)
 - [Water Bill Calculator (switch)](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/conditionals-and-branching/water-bill-tiered-switch.cpp)
 
-### loops
+### Loops - while, for, do-while, sentinels, nested loops
 - [Holiday Random Day Generator](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/loops/holiday-random-day-generator.cpp)
 - [Library Overdue Fee Accumulator](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/loops/library-overdue-accumulator.cpp)
 - [Multi-Day Sales Tracker](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/loops/multiday-sales-tracker.cpp)
@@ -84,79 +101,26 @@ This repository contains solutions to a wide range of programming challenges inv
 - [Ticket Booking System](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/loops/ticket-booking-system.cpp)
 - [Tribonacci Divisibility Checker](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/loops/tribonacci-divisibility.cpp)
 
-### arrays
+### Arrays - 1D arrays, searching, random generation, statistics
 - [Array Value Search and Occurrence Counter](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/arrays/array-search-occurrence-counter.cpp)
 - [Matrix Column Sum](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/arrays/matrix-column-sum.cpp)
 - [Product Price Range Finder](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/arrays/product-price-range-finder.cpp)
 - [Temperature Analyzer](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/arrays/temperature-analyzer.cpp)
 
-### functions
+### Functions - modular design, pass-by-reference, return values
 - [Armstrong Number Finder](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/functions/armstrong-number-finder.cpp)
 - [Even Digit Counter](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/functions/even-digit-counter.cpp)
 - [Parking Fee Calculator](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/functions/parking-fee-calculator.cpp)
 - [Temperature Unit Converter](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/functions/temperature-unit-converter.cpp)
 
-### strings-and-characters
+### Strings & Characters - C-strings, character classification, text analysis
 - [Capitalized Word Counter](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/strings-and-characters/capitalized-word-counter.cpp)
 - [Password Strength Checker](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/strings-and-characters/password-strength-checker.cpp)
 - [Sentence Word and Vowel Counter](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/strings-and-characters/sentence-word-vowel-counter.cpp)
 - [Text Line Analyzer](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/strings-and-characters/text-line-analyzer.cpp)
 
-### file-io
+### File I/O - reading/writing files, formatted reports
 - [Holiday Day File Writer](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/file-io/holiday-day-file-writer.cpp)
 - [Student Assessment Report Generator](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/file-io/student-assessment-report.cpp)
 
 ---
-
-## Featured Projects
-
-- [Student Assessment Report Generator](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/file-io/student-assessment-report.cpp) — Reads student data from a file, computes weighted scores, validates records, and writes a formatted report using file I/O
-- [Matrix Processor](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/2d-arrays-and-matrices/matrix-processor.cpp) — Operates on a 2D matrix using four dedicated functions: random population, minimum finder, row averages, and formatted display
-- [Integer Digit Analyzer](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/2d-arrays-and-matrices/integer-digit-analyzer.cpp) — Computes digit count, digit sum, reversal, palindrome detection, and repeated-digit detection using pure arithmetic
-- [Smart Home Hub Controller](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/conditionals-and-branching/smart-home-hub.cpp) — Simulates IoT home automation logic across three operating modes using switch and nested conditionals
-- [Ticket Booking System](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/loops/ticket-booking-system.cpp) — Manages a live ticket inventory with input validation, buyer tracking, and automatic sold-out detection
-- [EV Charging Cost Calculator](https://github.com/Abdullah-Abdul-Azeem/cpp-fundamentals/blob/main/conditionals-and-branching/ev-charging-cost-calculator.cpp) — Computes EV charging costs based on charger type and session duration with a tiered discount system
-
----
-
-## Skills Demonstrated
-
-- C++
-- Structured Programming
-- Algorithm Design
-- Problem Solving
-- Data Processing
-- File Management
-- Input Validation
-- Debugging and Testing
-
----
-
-## Repository Organization
-
-Programs are organized according to the problem they solve rather than their original academic assignment structure. Each program represents an independent implementation of a programming concept or problem-solving technique.
-
----
-
-## Learning Outcomes
-
-Through these projects I developed:
-
-- Strong programming fundamentals in C++
-- Systematic problem-solving skills
-- Experience designing algorithms from problem specifications
-- Confidence in debugging and testing software
-- Understanding of modular and maintainable code design
-
----
-
-## Statistics
-
-- 63 C++ Programs
-- 20+ Programming Concepts
-- Arrays, Strings, Functions, and File Handling
-- Mathematical and Real-World Problem Solving Applications
-
----
-
-This repository documents my progression from introductory programming concepts to more complex data-processing and file-handling applications.
